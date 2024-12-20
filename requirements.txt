@@ -4,3 +4,4 @@ geemap
 geopandas
 zipfile36
 pandas
+setuptools
