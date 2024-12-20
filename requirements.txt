@@ -1,4 +1,4 @@
-ee
+earthengine-api
 streamlit
 geemap
 geopandas
