@@ -1,4 +1,4 @@
-ee
+ee==0.1.257
 streamlit
 geemap
 geopandas
