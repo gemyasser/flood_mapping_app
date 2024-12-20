@@ -1,5 +1,6 @@
-geemap
-earthengine-api
+ee
 streamlit
+geemap
 geopandas
+zipfile36
 pandas
