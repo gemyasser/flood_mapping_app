@@ -1,0 +1,5 @@
+geemap
+earthengine-api
+streamlit
+geopandas
+pandas
